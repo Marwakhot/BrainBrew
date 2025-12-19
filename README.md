@@ -162,7 +162,10 @@ brain-brew/
 │   │   └── supabase.ts      # Supabase client
 │   └── App.tsx              # Main application
 ├── SUPABASE_SETUP.md        # Database setup guide
+├── brainbrew_overview.pdf   # Project Overview ppt
+├── Architecture_daigram.png # Project workings daigram
 └── README.md                # This file
+
 ```
 
 ---
