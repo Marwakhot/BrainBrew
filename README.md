@@ -168,6 +168,3 @@ brain-brew/
 
 ```
 
----
-
-**Built with 💙 to make learning more engaging and effective**
